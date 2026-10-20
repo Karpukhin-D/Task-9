@@ -3,7 +3,15 @@
 ## Выполнили студенты группы П25-2.1 Карпухин Дмитрий и Есин Данила
 ---
 <picture>
-  <img src="https://github.com/Karpukhin-D/Task-7/blob/main/1.png">
+  <img src="https://github.com/Karpukhin-D/Task-9/blob/main/screens/1.png">
+</picture>
+
+<picture>
+  <img src="https://github.com/Karpukhin-D/Task-9/blob/main/screens/2.png">
+</picture>
+
+<picture>
+  <img src="https://github.com/Karpukhin-D/Task-9/blob/main/screens/3.png">
 </picture>
 
 ```csharp
